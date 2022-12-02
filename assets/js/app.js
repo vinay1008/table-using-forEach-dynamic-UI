@@ -11,6 +11,7 @@ var cl = console.log;
 
 
 
+
 var skills = ["HTML5", "CSS3", "javaScript", "TypeScript", "Angular"];
 
 var skillInfo = document.getElementById(skillinfo);
